@@ -180,6 +180,6 @@ CORS_ORIGIN_WHITELIST = [
     'https://localhost:3000',
 ]
 
-ALLOWED_HOSTS = ['ecommerce-django-be.herokuapp.com', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['dg-ecommerce-jackets.herokuapp.com', '127.0.0.1', 'localhost']
 
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
